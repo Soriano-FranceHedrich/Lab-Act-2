@@ -1,28 +1,28 @@
 const questions = [
     {
-      question: "Which planet is known as the Red Planet?",
-      choices: ["Earth", "Mars", "Jupiter", "Venus"],
-      answer: "Mars"
-    },
-    {
-      question: "What is the capital of Japan?",
-      choices: ["Beijing", "Seoul", "Tokyo", "Bangkok"],
-      answer: "Tokyo"
-    },
-    {
-      question: "Which animal is known as the 'King of the Jungle'?",
-      choices: ["Tiger", "Lion", "Elephant", "Bear"],
-      answer: "Lion"
-    },
-    {
       question: "What gas do plants absorb from the atmosphere?",
-      choices: ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+      choices: ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
       answer: "Carbon Dioxide"
     },
     {
-      question: "Which ocean is the largest in the world?",
-      choices: ["Atlantic", "Indian", "Pacific", "Arctic"],
-      answer: "Pacific"
+      question: "What is the hardest natural substance on Earth?",
+      choices: ["Gold", "Iron", "Diamond", "Quartz"],
+      answer: "Diamond"
+    },
+    {
+      question: "How many bones are there in the adult human body?",
+      choices: ["206", "201", "300", "180"],
+      answer: "206"
+    },
+    {
+      question: "Which planet has the most moons?",
+      choices: ["Jupiter", "Mars", "Saturn", "Neptune"],
+      answer: "Saturn"
+    },
+    {
+      question: "What part of the cell contains DNA?",
+      choices: ["Mitochondria", "Cytoplasm", "Nucleus", "Ribosome"],
+      answer: "Nucleus"
     }
   ];
   
